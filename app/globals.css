@@ -25,3 +25,19 @@ body {
     text-wrap: balance;
   }
 }
+
+.profile-picture {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  border: 2px solid beige;
+  display: inline-block;
+}
+
+.profile-picture-large {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 2px solid beige;
+  display: inline-block;
+}
